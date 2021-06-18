@@ -1,0 +1,23 @@
+body {
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  flex: 1;
+  font-weight: bolder;
+  color: purple;
+}
+
+p {
+  flex: 1;
+  color: green;
+}
+
+.container {
+  text-align: center;
+}
